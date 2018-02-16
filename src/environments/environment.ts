@@ -17,5 +17,5 @@ export const environment = {
     projectId: 'angularfiredeploy',
     storageBucket: 'angularfiredeploy.appspot.com',
     messagingSenderId: '139824779662'
-  }
+  },
 };
