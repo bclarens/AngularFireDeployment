@@ -16,6 +16,6 @@ export const environment = {
     databaseURL: 'https://angularfiredeploy.firebaseio.com',
     projectId: 'angularfiredeploy',
     storageBucket: 'angularfiredeploy.appspot.com',
-    messagingSenderId: '139824779662'
+    messagingSenderId: '139824779662',
   },
 };
