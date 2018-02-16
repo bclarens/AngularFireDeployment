@@ -10,4 +10,12 @@
 
 export const environment = {
   production: false,
+  firebaseConfig: {
+    apiKey: "AIzaSyBdiQa3TqRGaWUx7nhxHOQDo2jjRSPgXEo",
+    authDomain: "angularfiredeploy.firebaseapp.com",
+    databaseURL: "https://angularfiredeploy.firebaseio.com",
+    projectId: "angularfiredeploy",
+    storageBucket: "angularfiredeploy.appspot.com",
+    messagingSenderId: "139824779662"
+  }
 };
